@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "poppins" , sans-serif;
+}
+
+body{
+    color: aliceblue;
+    min-height: 100vh;
+    background-image: url("poori.jpg");
+    background-size: cover;
+    background-position: center;
+}
